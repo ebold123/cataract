@@ -10,3 +10,5 @@ It's liker poker for 8 year olds - every player has 2 showing cards, and 2 hole 
 
 # Caveat Emptor
 This is tooooootttalllyy a work in progress. Please don't expect anything here to work!
+
+I have been writing this code in a "stream of consciousness." Right now it doesn't make much sense. I haven't even decided if this is a local game you run on your Mac, or a service to run in heroku and store game results in postgres. Shrug.
